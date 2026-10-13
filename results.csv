@@ -1,0 +1,41 @@
+text,sentiment,confidence
+The application works perfectly. I use it every day.,POSITIVE,0.9998
+"The delivery was late, and the package was damaged.",NEGATIVE,0.9997
+"The product is acceptable, but nothing special.",NEGATIVE,0.9869
+Excellent customer support and fast service!,POSITIVE,0.9999
+The software crashes every time I open it.,NEGATIVE,0.9997
+The headphones have clear sound and comfortable ear cushions.,POSITIVE,0.9988
+I am disappointed with the quality of this product.,NEGATIVE,0.9998
+The website is easy to navigate and looks modern.,POSITIVE,0.9992
+The food arrived cold and tasted terrible.,NEGATIVE,0.9996
+The staff were friendly and helped me solve the problem.,POSITIVE,0.9998
+The battery lasts much longer than I expected.,NEGATIVE,0.9934
+This is the worst purchase I have made this year.,NEGATIVE,0.9998
+"The service was fine, but the price was a little high.",POSITIVE,0.9713
+"Setup was simple, and everything worked on the first try.",NEGATIVE,0.8800
+The instructions are confusing and difficult to follow.,NEGATIVE,0.9996
+"I love the design, and the product feels very durable.",POSITIVE,0.9999
+The order arrived two days earlier than expected.,NEGATIVE,0.9763
+The camera quality is poor in low light.,NEGATIVE,0.9998
+"Nothing was wrong with the item, but it did not impress me.",NEGATIVE,0.9994
+Customer support ignored my messages for several days.,NEGATIVE,0.9995
+The new update fixed the bugs and improved performance.,POSITIVE,0.9992
+The chair is uncomfortable after sitting for an hour.,NEGATIVE,0.9986
+The subscription is affordable and offers great value.,POSITIVE,0.9998
+The app is slow and drains my phone battery.,NEGATIVE,0.9992
+"The hotel room was clean, quiet, and comfortable.",POSITIVE,0.9998
+The product stopped working after only one week.,NEGATIVE,0.9996
+"The packaging was neat, and the item matched the description.",POSITIVE,0.9996
+"The meal was okay, although the portions were small.",POSITIVE,0.9994
+I received the wrong item and had to return it.,NEGATIVE,0.9996
+"The course was informative, engaging, and well organized.",POSITIVE,0.9999
+"The printer works as expected, with no major issues.",NEGATIVE,0.9378
+I would not recommend this service to anyone.,NEGATIVE,0.9383
+"The screen is bright, sharp, and easy to read.",POSITIVE,0.9998
+"The repair took longer than promised, but the result is good.",POSITIVE,0.9997
+The price is reasonable for the features provided.,POSITIVE,0.9978
+"The instructions were clear, and installation took ten minutes.",NEGATIVE,0.9932
+"The sound quality is average, and the controls feel cheap.",NEGATIVE,0.9998
+I had a wonderful experience from start to finish.,POSITIVE,0.9999
+"The product looks nice, but it does not work properly.",NEGATIVE,0.9997
+The support team resolved my issue quickly and professionally.,POSITIVE,0.9902
